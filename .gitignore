@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+attendance_report.xlsx
+Attendance_Report_*.xlsx
+
+test_email.py
